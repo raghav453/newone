@@ -1,0 +1,4 @@
+requests
+yfinance
+colorama
+pandas
